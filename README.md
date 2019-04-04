@@ -15,5 +15,4 @@ You are given over 65,000 games' worth of anonymized player data, split into tra
 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the talking!
 
-[data is available here]
-[data is available here]:(https://www.kaggle.com/c/pubg-finish-placement-prediction)
+Find the data here: https://www.kaggle.com/c/pubg-finish-placement-prediction
