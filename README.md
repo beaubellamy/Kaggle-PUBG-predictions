@@ -1,4 +1,4 @@
-![PUBG](\PUBG inlay.jpg)
+<img src="PUBG Inlay" width="220" height="240" />
 
 # PUBG Finish Placement Prediction
 
