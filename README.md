@@ -1,4 +1,4 @@
-<img src="\PUBG inlay.jpg">
+![PUBG](\PUBG inlay.jpg)
 
 # PUBG Finish Placement Prediction
 
@@ -14,3 +14,6 @@ The team at PUBG has made official game data available for the public to explore
 You are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings.
 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the talking!
+
+[data is available here]
+[data is available here]:(https://www.kaggle.com/c/pubg-finish-placement-prediction)
