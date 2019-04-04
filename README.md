@@ -1,7 +1,6 @@
-<img src="PUBG Inlay.jpg" width="220" height="240" />
-![GitHub Logo](/images/logo.png)
-# PUBG Finish Placement Prediction
+<img src="PUBG Inlay.jpg" />
 
+# PUBG Finish Placement Prediction
 
 So, where we droppin' boys and girls?
 
@@ -15,4 +14,4 @@ You are given over 65,000 games' worth of anonymized player data, split into tra
 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the talking!
 
-Find the data here: https://www.kaggle.com/c/pubg-finish-placement-prediction
+[Find the data here:](https://www.kaggle.com/c/pubg-finish-placement-prediction)
