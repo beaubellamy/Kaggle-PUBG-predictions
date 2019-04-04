@@ -1,4 +1,4 @@
-<img src=\"PUBG inlay.jpg\">
+<img src="\PUBG inlay.jpg">
 
 # PUBG Finish Placement Prediction
 
