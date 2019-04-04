@@ -1,5 +1,5 @@
-<img src="PUBG Inlay" width="220" height="240" />
-
+<img src="PUBG Inlay.jpg" width="220" height="240" />
+![GitHub Logo](/images/logo.png)
 # PUBG Finish Placement Prediction
 
 
