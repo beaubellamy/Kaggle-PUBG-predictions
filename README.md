@@ -1,7 +1,7 @@
-# Kaggle-PUBG-predictions
-EDA and model development to compete in the Kaggle PUBG challenge
+<img src=\"PUBG inlay.jpg\">
 
-<img src="PUBG inlay.jpg">
+# PUBG Finish Placement Prediction
+
 
 So, where we droppin' boys and girls?
 
